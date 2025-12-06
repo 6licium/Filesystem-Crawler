@@ -57,7 +57,7 @@ if __name__ == "__main__":
     base_directory = "test_arbo"
 
     max_depth = 6
-    max_subfolders = 5
+    max_subfolders = 10
     max_files = 50
     lorem_min = 1
     lorem_max = 3
